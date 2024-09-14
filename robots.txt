@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://toodok.github.io/ENr/sitemap.ENr.gz
